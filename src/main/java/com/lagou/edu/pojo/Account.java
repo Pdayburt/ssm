@@ -1,4 +1,4 @@
-package com.laogou.edu.pojo;
+package com.lagou.edu.pojo;
 
 import lombok.Data;
 

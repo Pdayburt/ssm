@@ -1,6 +1,6 @@
-package com.laogou.edu.service;
+package com.lagou.edu.service;
 
-import com.laogou.edu.pojo.Account;
+import com.lagou.edu.pojo.Account;
 
 import java.util.List;
 

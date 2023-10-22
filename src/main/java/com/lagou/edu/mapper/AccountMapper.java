@@ -1,7 +1,6 @@
-package com.laogou.edu.mapper;
+package com.lagou.edu.mapper;
 
-import com.laogou.edu.pojo.Account;
-import org.springframework.stereotype.Repository;
+import com.lagou.edu.pojo.Account;
 
 import java.util.List;
 
